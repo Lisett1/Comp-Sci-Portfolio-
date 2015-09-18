@@ -1,4 +1,24 @@
 h1{
-    background-color: blue;
-    color: green;
+    color: white;
+
+}
+body{
+    text-align:center;
+}
+#navbar{ 
+    vertical-align: center;
+}
+
+#navbar li{
+    display:inline-block;
+}
+
+#navbar a{
+
+}
+   body{
+       background-color:coral;
+   }
+h2{
+    color: white;
 }
